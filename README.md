@@ -2,6 +2,8 @@
 <p align="left">Good day! I'm Yuhyun who is a web developer & a musician from South Korea</p>
 <p>If you want to contact me, please leave a message!</p>
  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithdub.com%2Fmusekorea%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>             
+ 
  ✉ Email  : **m3muse@gmail.com**  
  
  📱 微信 : **m3muse**
