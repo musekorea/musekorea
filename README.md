@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm YUHYUN JUNG</h1>
-<h3 align="center">A passionate developer & a Musician from Korea</h3>
+<h2 align="center">Hi, I'm Yu-Hyun 👋</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musekorea&label=Profile%20views&color=0e75b6&style=flat" alt="musekorea" /> </p>
+<p align="center">I'm a web developer & a musician from Korea</p>
+
+ - I live in Beijing with 3 cats🙀 and 2 dogs🐶
+
+
+
+
+
+- 📫 How to reach me **m3muse@gmail.com**
+
+
+
+
 
 
 <h3 align="center">Skills</h3>
