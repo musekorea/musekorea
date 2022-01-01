@@ -35,24 +35,11 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 
-
-
-
-  
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musekorea&show_icons=true&locale=en&layout=compact" alt="musekorea" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musekorea&show_icons=true&locale=en" alt="musekorea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musekorea&" alt="musekorea" /></p>
-
-
+<hr>
 
 <div align="center">
-  
-<!--사용언어 & 깃허브 스탯-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musekorea&layout=compact&theme=gruvbox_light)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musekorea&show_icons=true&theme=vue)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musekorea&show_icons=true&locale=en&layout=compact" alt="musekorea" height="170px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=musekorea&show_icons=true&locale=en" alt="musekorea" height="170px"/>
 </div>
+
+
