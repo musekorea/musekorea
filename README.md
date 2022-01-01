@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YUHYUN JUNG</h1>
-<h3 align="center">A passionate developer & a Professional Musician from Korea</h3>
+<h3 align="center">A passionate developer & a Musician from Korea</h3>
 
 
 <h3 align="center">Skills</h3>
