@@ -8,8 +8,10 @@
  
 <h1></h1> 
 
+<h3>About me</h3>
+
  - I live in Beijing with 3 cats🙀 and 2 dogs🐶
- - <i>Currently</i> : Web Developer at Codeme.Co.Ltd in Beijing
+ - <i>Currently</i> : Web Developer at Codeme.Co.,Ltd in Beijing
  - *Previously* : Professional Musician 
  
 <h1></h1>
@@ -49,8 +51,8 @@
 <h1></h1>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musekorea&show_icons=true&locale=en&layout=compact" alt="musekorea" height="170px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=musekorea&show_icons=true&locale=en" alt="musekorea" height="170px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musekorea&show_icons=true&locale=en&layout=compact" alt="musekorea" height="170px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=musekorea&show_icons=true&locale=en&theme=solarized-light" alt="musekorea" height="170px"/>
 </div>
 
 
