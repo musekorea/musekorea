@@ -51,8 +51,8 @@
 <h1></h1>
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musekorea&show_icons=true&locale=en&layout=compact" alt="musekorea" height="170px"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=musekorea&show_icons=true&locale=en&theme=solarized-light" alt="musekorea" height="170px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musekorea&show_icons=true&locale=en&layout=compact" alt="musekorea" height="150px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=musekorea&show_icons=true&locale=en&theme=solarized-light" alt="musekorea" height="150px"/>
 </div>
 
 
