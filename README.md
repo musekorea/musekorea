@@ -11,7 +11,7 @@
 <h3>About me</h3>
 
  - I live in Beijing with 3 cats🙀 and 2 dogs🐶
- - Love music🎼
+ - Love music and movies ❤
  - <i>Currently</i> : Web Developer at Codeme.Co.,Ltd in Beijing
  - *Previously* : Professional Musician 
  
