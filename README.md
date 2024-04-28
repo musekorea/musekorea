@@ -10,8 +10,8 @@
 
 <h3>About me</h3>
 
- - I live in Beijing with 4 cats🙀 and 2 dogs🐶
- - Love music and movies ❤
+ - I live in Beijing with 5 cats🙀 and 1 dogs🐶
+ - Love music and math ❤
  - <i>Currently</i> : Web Developer at Codeme.Co.,Ltd in Beijing
  - *Previously* : Professional Musician 
  
