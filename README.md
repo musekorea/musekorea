@@ -1,6 +1,6 @@
 <h3 align="left">Hi there ~ 👋  <img align="right" src="https://komarev.com/ghpvc/?username=musekorea&label=Profile%20views&color=0e75b6&style=flat" alt="musekorea" /> </h3>
-<p align="left">Good day! I'm Yuhyun who is a web developer & a musician from South Korea</p>
-<p>If you want to contact me, please leave a message!</p>
+<p align="left">Good day! I'm Yuhyun who is a web developer & musician from South Korea</p>
+<p>If you'd like to get in touch, please leave a message!</p>
  
  ✉ Email  : **m3muse@gmail.com**  
  
@@ -10,7 +10,7 @@
 
 <h3>About me</h3>
 
- - I live in Beijing with 5 cats🙀 and 1 dogs🐶
+ - I live in Beijing with 5 cats🙀 and 1 dog🐶
  - Love music and math ❤
  - <i>Currently</i> : Web Developer at Codeme.Co.,Ltd in Beijing
  - *Previously* : Professional Musician 
